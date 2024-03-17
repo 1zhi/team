@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>黎黎 | Wowchemy Research Group</title>
-    <link>https://example.com/author/%E9%BB%8E%E9%BB%8E/</link>
-      <atom:link href="https://example.com/author/%E9%BB%8E%E9%BB%8E/index.xml" rel="self" type="application/rss+xml" />
+    <title>黎黎 | 壹志团队</title>
+    <link>https://team.1zhi.io/author/%E9%BB%8E%E9%BB%8E/</link>
+      <atom:link href="https://team.1zhi.io/author/%E9%BB%8E%E9%BB%8E/index.xml" rel="self" type="application/rss+xml" />
     <description>黎黎</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/%E9%BB%8E%E9%BB%8E/avatar_hu884d3c1319b2de082f0c2a4a6cfeda81_18651_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://team.1zhi.io/author/%E9%BB%8E%E9%BB%8E/avatar_hu884d3c1319b2de082f0c2a4a6cfeda81_18651_270x270_fill_q75_lanczos_center.jpg</url>
       <title>黎黎</title>
-      <link>https://example.com/author/%E9%BB%8E%E9%BB%8E/</link>
+      <link>https://team.1zhi.io/author/%E9%BB%8E%E9%BB%8E/</link>
     </image>
     
     <item>
       <title>黎黎</title>
-      <link>https://example.com/author/%E9%BB%8E%E9%BB%8E/</link>
+      <link>https://team.1zhi.io/author/%E9%BB%8E%E9%BB%8E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/%E9%BB%8E%E9%BB%8E/</guid>
+      <guid>https://team.1zhi.io/author/%E9%BB%8E%E9%BB%8E/</guid>
       <description>&lt;p&gt;吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

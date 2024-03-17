@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>李怡 | Wowchemy Research Group</title>
-    <link>https://example.com/author/%E6%9D%8E%E6%80%A1/</link>
-      <atom:link href="https://example.com/author/%E6%9D%8E%E6%80%A1/index.xml" rel="self" type="application/rss+xml" />
+    <title>李怡 | 壹志团队</title>
+    <link>https://team.1zhi.io/author/%E6%9D%8E%E6%80%A1/</link>
+      <atom:link href="https://team.1zhi.io/author/%E6%9D%8E%E6%80%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>李怡</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/%E6%9D%8E%E6%80%A1/avatar_hu884d3c1319b2de082f0c2a4a6cfeda81_17467_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://team.1zhi.io/author/%E6%9D%8E%E6%80%A1/avatar_hu884d3c1319b2de082f0c2a4a6cfeda81_17467_270x270_fill_q75_lanczos_center.jpg</url>
       <title>李怡</title>
-      <link>https://example.com/author/%E6%9D%8E%E6%80%A1/</link>
+      <link>https://team.1zhi.io/author/%E6%9D%8E%E6%80%A1/</link>
     </image>
     
   </channel>
